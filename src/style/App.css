@@ -73,21 +73,23 @@ img.linkedin-logo {
 .home-container {
     display: flex;
     flex-direction: column;
-    font-size: 60px;
+    font-size: 50px;
     font-family: 'VT323', monospace;
     color: black;
-    margin-left: 200px;
-    margin-top: 110px;
+    align-items: center;
+    margin-top: 250px;
+    justify-content: space-between;
+    min-height: 60vh;
 }
 
 .gif-container {
     display: flex;
-    justify-content: flex-end;
-    margin-top: 28px;
+    justify-content: center;
+    /* margin-top: 100px; */
 }
 .jumping-gif{
-    max-height: 50%;
-    max-width: 50%;
+    max-height: 80%;
+    max-width: 80%;
 }
 
 .portfolio-container {

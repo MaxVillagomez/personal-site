@@ -79,13 +79,12 @@ img.linkedin-logo {
     align-items: center;
     margin-top: 250px;
     justify-content: space-between;
-    min-height: 60vh;
+    min-height: 40vh;
 }
 
 .gif-container {
     display: flex;
     justify-content: center;
-    /* margin-top: 100px; */
 }
 .jumping-gif{
     max-height: 80%;
